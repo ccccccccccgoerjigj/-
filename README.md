@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>碳稅計算</title>
+    <title>碳稅計算(單位:美金)</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,7 +22,7 @@
     </style>
 </head>
 <body>
-    <h2>碳稅計算</h2>
+    <h2>碳稅計算(單位:美金)</h2>
     <select id="multiplicand">
         <option value="6.4">臺灣/6.4</option>
         <option value="2.17">日本/2.17</option>
@@ -66,7 +66,7 @@
     <div id="history">
         <h3>歷史計算</h3>
         <ul id="historyList"></ul>
-        <p id="totalResult">Total Result: 0</p>
+        <p id="totalResult">碳稅總金額: 0</p>
     </div>
 
     <script>
