@@ -64,7 +64,7 @@
 
     <!-- 运算历史记录 -->
     <div id="history">
-        <h3>Calculation History</h3>
+        <h3>歷史計算</h3>
         <ul id="historyList"></ul>
         <p id="totalResult">Total Result: 0</p>
     </div>
