@@ -22,7 +22,7 @@
     </style>
 </head>
 <body>
-    <h2>Multiplication Calculator</h2>
+    <h2>碳稅計算</h2>
     <select id="multiplicand">
         <option value="6.4">臺灣/6.4</option>
         <option value="2.17">日本/2.17</option>
